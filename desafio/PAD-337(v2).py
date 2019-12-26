@@ -23,7 +23,6 @@ def continuar():
             return False
         else:
             print('\033[1;31mResposta inválida, apenas [S/N]!\033[m')
-            continue
 
 
 cartas = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "A", "J", "Q", "K"]
