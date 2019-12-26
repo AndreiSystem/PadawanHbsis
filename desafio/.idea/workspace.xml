@@ -22,8 +22,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.PAD-337(v2)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andrei.luz\PycharmProjects\desafio\PAD-338" />
+      <recent name="C:\Users\andrei.luz\PycharmProjects\desafio\PAD-337" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.teste">
     <configuration name="PAD-337" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="desafio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -36,7 +43,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAD-337.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\andrei.luz\PycharmProjects\desafio\PAD-337\PAD-337.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +64,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAD-337(v2).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\andrei.luz\PycharmProjects\desafio\PAD-337\PAD-337(v2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adivinha_frutas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAD-338/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAD-338/app/adivinha_frutas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAD-338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAD-338/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAD-338" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAD-338/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,6 +138,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.adivinha_frutas" />
         <item itemvalue="Python.PAD-337(v2)" />
         <item itemvalue="Python.PAD-337" />
       </list>
@@ -99,37 +172,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="260" key="GridCell.Tab.0.bottom" timestamp="1577130554578">
+    <state x="420" y="248" key="FileChooserDialogImpl" timestamp="1577355584655">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577130554578" />
-    <state width="1259" height="260" key="GridCell.Tab.0.center" timestamp="1577130554578">
+    <state x="420" y="248" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577355584655" />
+    <state width="1259" height="260" key="GridCell.Tab.0.bottom" timestamp="1577390681304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1577130554578" />
-    <state width="1259" height="260" key="GridCell.Tab.0.left" timestamp="1577130554578">
+    <state width="1259" height="260" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577390681304" />
+    <state width="1259" height="260" key="GridCell.Tab.0.center" timestamp="1577390681304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1577130554578" />
-    <state width="1259" height="260" key="GridCell.Tab.0.right" timestamp="1577130554578">
+    <state width="1259" height="260" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1577390681304" />
+    <state width="1259" height="260" key="GridCell.Tab.0.left" timestamp="1577390681303">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="260" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1577130554578" />
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1577130217804">
+    <state width="1259" height="260" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1577390681303" />
+    <state width="1259" height="260" key="GridCell.Tab.0.right" timestamp="1577390681304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577130217804" />
-    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1577130217804">
+    <state width="1259" height="260" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1577390681304" />
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1577131508827">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1577130217804" />
-    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1577130217804">
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1577131508827" />
+    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1577131508827">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1577130217804" />
-    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1577130217804">
+    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1577131508827" />
+    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1577131508827">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1577130217804" />
+    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1577131508827" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1577131508827">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1577131508827" />
+    <state x="336" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1577355565072">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="317" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1577355565072" />
   </component>
 </project>
